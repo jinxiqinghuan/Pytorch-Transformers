@@ -1,0 +1,8 @@
+__pycache__/
+/checkpoint/
+/images/
+/results/
+/runs/
+/fid_stat/
+/data/
+/generated_images/
